@@ -30,7 +30,7 @@ def draw_window(win, birds, pipes, base, score, gen):
 
     score_label = STAT_FONT.render("Score: " + str(score), 1, (255,255,255))
     win.blit(score_label, (10, 10) )
-    gen_label = STAT_FONT.render("Gens: " + str(gen - 1), 1, (255,255,255))
+    gen_label = STAT_FONT.render("Generation: " + str(gen - 1), 1, (255,255,255))
     win.blit(gen_label, (10, 45))
     pygame.display.update()
 
