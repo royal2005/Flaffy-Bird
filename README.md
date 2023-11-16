@@ -1,10 +1,10 @@
 # Flappy Bird
 
 ## Overview
-Welcome to Flappy Bird! This project utilizes the pygame and neat libraries to create a game where AI agents enhance their performance in each session, also known as generations.
+Welcome to Flappy Bird! This project utilizes the pygame and neat libraries to create a game where AI agents play for you and enhance their performance in each session, also known as generations.
 
 ## Agents
-The improvement of agents is driven by a reinforcement learning algorithm integrated into the neat library. To gain a deeper understanding of the algorithm, you can refer to the documentation [here](https://neat-python.readthedocs.io/en/latest/neat_overview.html).
+The improvement of agents is driven by a reinforcement learning algorithm integrated into the neat library. For a better understanding of the algorithm, you can refer to the documentation [here](https://neat-python.readthedocs.io/en/latest/neat_overview.html).
 
 ## Installation
 To get started, simply follow these steps:
